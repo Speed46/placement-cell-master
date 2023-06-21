@@ -1,0 +1,11 @@
+{
+  "name": "placement-cell-master",
+  "version": "1.0.0",
+  "description": "placement cell for students and recruiters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kousik",
+  "license": "ISC"
+}
